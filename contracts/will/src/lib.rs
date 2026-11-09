@@ -10,7 +10,7 @@
 // when placed on the source function or the impl block, so it's set crate-wide.
 #![allow(clippy::too_many_arguments)]
 
-//! SoroWill — a trustless on-chain inheritance and dead man's switch protocol
+//! switch-vault — a trustless on-chain inheritance and dead man's switch protocol
 //! for Stellar Soroban.
 //!
 //! An owner locks one or more tokens (e.g. USDC, XLM, any SEP-41 asset) into

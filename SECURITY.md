@@ -1,6 +1,6 @@
 # Security Policy
 
-The SoroWill team takes the security of our smart contracts and protocol infrastructure seriously. As a protocol managing trustless inheritance and user funds on Stellar Soroban, we encourage responsible disclosure of any security vulnerabilities.
+The switch-vault team takes the security of our smart contracts and protocol infrastructure seriously. As a protocol managing trustless inheritance and user funds on Stellar Soroban, we encourage responsible disclosure of any security vulnerabilities.
 
 ---
 

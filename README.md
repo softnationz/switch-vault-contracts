@@ -1,6 +1,6 @@
-<img src="./docs/logo.svg" alt="SoroWill" width="56" height="56" />
+<img src="./docs/logo.svg" alt="switch-vault" width="56" height="56" />
 
-# SoroWill Contracts
+# switch-vault Contracts
 
 **Trustless on-chain inheritance on Stellar Soroban**
 
@@ -12,9 +12,9 @@
 
 **Live app: [sorowill.vercel.app](https://sorowill.vercel.app/)**
 
-## What is SoroWill
+## What is switch-vault
 
-SoroWill is a trustless, on-chain inheritance protocol for Stellar Soroban. It lets anyone lock USDC (or any SEP-41 compliant token) into a smart contract, name beneficiaries with percentage splits, and set a check-in period. If the owner stops checking in, the contract automatically releases the funds to the beneficiaries after a grace period — no lawyer, no court, no middleman.
+switch-vault is a trustless, on-chain inheritance protocol for Stellar Soroban. It lets anyone lock USDC (or any SEP-41 compliant token) into a smart contract, name beneficiaries with percentage splits, and set a check-in period. If the owner stops checking in, the contract automatically releases the funds to the beneficiaries after a grace period — no lawyer, no court, no middleman.
 
 ## How it works
 
@@ -47,7 +47,7 @@ cargo install --locked stellar-cli
 
 # Clone and test
 git clone https://github.com/SoroWill/sorowill-contracts.git
-cd sorowill-contracts
+cd switch-vault
 cargo test
 cargo clippy --all-targets -- -D warnings
 ```
